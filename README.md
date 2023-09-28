@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erzhankub&label=Profile%20views&color=0e75b6&style=flat" alt="erzhankub" /> </p>
 
-- 🔭 I’m currently working on [Employee Accounting System](https://github.com/ErzhanKub/EmployeeAccountingSystemAPI.git)
+- 🔭 I’m currently working on [Book Management System](https://github.com/ErzhanKub/BookManagementSystem.git)
 
 - 🌱 I’m currently learning **I continue to study .net and slowly study stacks for the frontend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErzhanKub](https://github.com/ErzhanKub)
-
-- 💬 Ask me about **.Net, ASP.NET Core Web (REST) API (MVC, Blazor), EF Core, SQL(PostgreSQL, MS SQL), Redis, RabbitMQ, Docker),**
 
 - 📫 How to reach me **avazov.erjan@gmail.com**
 
