@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erzhankub&label=Profile%20views&color=0e75b6&style=flat" alt="erzhankub" /> </p>
 
-- 🔭 I’m currently working on [Book Management System](https://github.com/ErzhanKub/BookManagementSystem.git)
+- 🔭 I’m currently working on [PasteBinLight](https://github.com/ErzhanKub/PasteBinLight.git)
 
 - 🌱 I’m currently learning **I continue to study .net and slowly study stacks for the frontend**
 
